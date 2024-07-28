@@ -1,0 +1,4 @@
+name: AnvilAnimation
+version: '1.0-SNAPSHOT'
+main: me.padej.anvilAnimation.AnvilAnimation
+api-version: '1.20'
